@@ -28,7 +28,7 @@
       },
       "currency": {
         "type": "string",
-        "enum": ["RU", "USD"]
+        "enum": ["RUB", "USD"]
       }
     }
   }
